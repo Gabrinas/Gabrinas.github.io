@@ -1,6 +1,10 @@
 # MY-CV
 
 The contents of this repo are:
-1) HTML files,
-2) CSS files, and
-3) soft copy of my CV.
+1)Myname file
+2) HTML files, and
+3) CSS files
+
+The link to my webpage is: https://gabrinas.github.io
+
+
